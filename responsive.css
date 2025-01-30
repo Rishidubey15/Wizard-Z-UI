@@ -1,0 +1,1963 @@
+@media (min-width: 1370px) and (max-width: 1580px) {
+  #section1 {
+    height: 95%;
+    width: 100%;
+    /* background-color: lightgreen; */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+  }
+
+  #section2 {
+    height: 190%;
+    margin: 0px;
+    margin-bottom: 40px;
+  }
+
+  #landingPage {
+    margin-bottom: 0px;
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+  }
+
+  #LPpart1 p {
+    width: 100%;
+  }
+
+  #companies {
+    margin-bottom: 0px;
+  }
+
+  #section2 {
+    margin-top: 0px;
+  }
+
+  /* Section 3*/
+  #subpart1 p {
+    width: 80%;
+  }
+
+  #subpart1 button {
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 50%;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1530px) {
+  /* Section 2*/
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 1.7rem;
+    width: 85%;
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    gap: 10px;
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+    padding: 5px 5px;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1370px) {
+  /* Section 1 */
+  /* Navbar Part */
+  #section1 {
+    height: 110%;
+    width: 100%;
+    /* background-color: lightgreen; */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+  }
+  #part2 i {
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    font-size: 40px;
+    font-weight: 800;
+    display: block;
+  }
+
+  #part2 h3 {
+    display: none;
+  }
+
+  #part2 button {
+    display: none;
+  }
+
+  /* Landing page */
+
+  #landingPage {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  #LPpart1 {
+    height: 70%;
+    /* background-color: red; */
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+    font-size: 4.2rem;
+    letter-spacing: 2px;
+  }
+
+  #LPpart1 p {
+    font-size: 20px;
+    width: 100%;
+  }
+
+  #LPpart1 button {
+    font-size: 15px;
+    margin: 30px 0px 0px 0px;
+  }
+
+  #LPpart2 {
+    /* background-color: red; */
+    height: 70%;
+  }
+  #LPpart2 img {
+    margin-top: 120px;
+    width: 45vw;
+    height: 55vh;
+  }
+
+  /* Companies part */
+  #companies {
+    margin: 10px 10px 10px 40p;
+    padding: 20px 20px;
+  }
+
+  #companies > img {
+    height: 100px;
+    width: 130px;
+  }
+
+  #services {
+    width: 100%;
+  }
+
+  #services p {
+    width: 70%;
+  }
+
+  #section2 {
+    margin-top: 20px;
+    margin-bottom: 120px;
+    height: 165%;
+    width: 100%;
+  }
+
+  /* Section 3 */
+
+  .box3 {
+    background-color: rgb(197 197 197 / 50%);
+    backdrop-filter: blur(40px);
+    border-radius: 40px;
+    width: 85%;
+    padding: 10px 50px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+  }
+
+  #subpart1 h1 {
+    font-size: 2.5rem;
+    font-weight: 400;
+  }
+
+  #subpart1 p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    width: 80%;
+  }
+
+  #subpart1 button {
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 65%;
+  }
+}
+
+@media (min-width: 1050px) and (max-width: 1370px) {
+  /* Section 1 */
+  /* Landing page */
+
+  #section1 {
+    height: 107%;
+    width: 100%;
+    /* background-color: lightgreen; */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+  }
+
+  #landingPage {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  #LPpart1 {
+    height: 70%;
+    /* background-color: red; */
+  }
+
+  #LPpart1 h1 {
+    width: 90%;
+    font-size: 4.2rem;
+  }
+
+  #LPpart1 p {
+    font-size: 20px;
+    width: 80%;
+  }
+
+  #LPpart1 button {
+    font-size: 15px;
+    margin: 60px 0px 0px 0px;
+  }
+
+  #LPpart2 {
+    /* background-color: red; */
+    height: 70%;
+  }
+  #LPpart2 img {
+    margin-top: 120px;
+    width: 45vw;
+    height: 55vh;
+  }
+
+  /* Companies part */
+  #companies {
+    margin: 10px 10px 10px 40p;
+    padding: 20px 20px;
+  }
+
+  #companies > img {
+    height: 100px;
+    width: 130px;
+  }
+}
+
+@media (min-width: 1050px) and (max-width: 1180px) {
+  #section1 {
+    height: 115%;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+  #section2 {
+    margin-top: 20px;
+    height: 165%;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .whitebox,
+  .blackbox {
+    justify-content: center;
+    width: 45%;
+    /* height: 12 0%; */
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 20px 0px;
+    box-shadow: 0px 0px 0px black;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 1.9rem;
+    /* height: 100%; */
+    width: 100%;
+    padding: 10px 10px;
+  }
+
+  .emailbox {
+    justify-content: space-between;
+    padding: 15px 50px;
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    gap: 10px;
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+    padding: 5px 5px;
+  }
+
+  .whitebox img,
+  .blackbox img {
+    height: 28vh;
+    width: 25vw;
+    display: none;
+  }
+
+  /* Section 3 */
+  .box3 {
+    width: 92%;
+    padding: 0px 30px;
+    display: flex;
+    /* margin: 0px 100px; */
+    /* align-items: center; */
+    justify-content: space-between;
+  }
+
+  .box3 > img {
+    margin: 50px 10px;
+    width: 35vw;
+    height: 40vh;
+  }
+
+  #caseStudy p {
+    width: 60%;
+  }
+
+  #caseBox {
+    height: 40vh;
+    width: 92%;
+  }
+
+  hr {
+    margin-top: 2%;
+    height: 70%;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+  .emailbox {
+    justify-content: space-between;
+    padding: 28px 30px;
+  }
+
+  /* Section 3 */
+  .box3 > img {
+    margin: 50px 10px;
+    width: 40vw;
+    height: 38vh;
+  }
+  #subpart1 h1 {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  #subpart1 p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    width: 80%;
+  }
+
+  #subpart1 button {
+    font-size: 18px;
+    padding: 15px 15px;
+    width: 70%;
+  }
+
+  #caseStudy {
+    display: flex;
+    width: 92%;
+    margin-top: 50px;
+    padding: 10px 60px;
+    gap: 70px;
+  }
+
+  #caseStudy h1 {
+    font-size: 2.1rem;
+    padding: 5px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: #bbf95e;
+    border-radius: 5px;
+  }
+
+  #caseBox {
+    margin-top: 50px;
+    height: 40vh;
+    width: 92%;
+    gap: 40px;
+    border-radius: 34px;
+    margin-top: 80px;
+  }
+
+  .text {
+    width: 30%;
+    display: flex;
+    padding: 0px 20px;
+    gap: 20px;
+  }
+
+  .text h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+
+  hr {
+    margin-top: 2%;
+    height: 87%;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 800px) {
+  /* Section 1 */
+  /* Navbar Part */
+  #section1 {
+    height: 105%;
+    margin-bottom: 0px;
+  }
+  #part2 i {
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    font-size: 40px;
+    font-weight: 800;
+    display: block;
+  }
+
+  #part2 h3 {
+    display: none;
+  }
+
+  #part2 button {
+    display: none;
+  }
+
+  /* Landing page */
+
+  #LPpart1 {
+    height: 50%;
+    /* background-color: red; */
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+    font-size: 3.5rem;
+    line-height: 65px;
+    letter-spacing: 0px;
+  }
+
+  #LPpart1 p {
+    font-size: 19px;
+    width: 100%;
+    font-weight: 500;
+  }
+
+  #LPpart1 button {
+    font-size: 15px;
+    margin: 30px 0px 0px 0px;
+  }
+
+  #LPpart2 img {
+    margin-top: 0px;
+    width: 45vw;
+    height: 42vh;
+  }
+
+  /* Companies part */
+  #companies {
+    padding: 20px 20px;
+  }
+
+  #companies > img {
+    height: 100px;
+    width: 120px;
+  }
+
+  /* Section 2 */
+  #section2 {
+    margin: 0px;
+    height: 135%;
+    width: 100%;
+  }
+
+  #services {
+    width: 100%;
+    gap: 30px;
+  }
+
+  #services h1 {
+    font-size: 2rem;
+    padding: 5px;
+    height: 50px;
+  }
+
+  #services p {
+    font-size: 1.15rem;
+    width: 80%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 260px;
+    box-shadow: 0px 0px 0px black;
+    margin: 0px 0px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 1.5rem;
+    width: 100%;
+    padding: 10px 10px;
+  }
+
+  .emailbox {
+    justify-content: space-between;
+    padding: 28px 50px;
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    gap: 10px;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 1.5rem;
+    padding: 5px 5px;
+  }
+
+  .whitebox img,
+  .blackbox img {
+    display: none;
+  }
+
+  /* Section 3 */
+  #section3 {
+    margin-top: 0px;
+  }
+  .box3 {
+    width: 85%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #subpart1 {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    gap: 20px;
+    /* justify-content: space-around; */
+    flex-direction: column;
+  }
+
+  .box3 > img {
+    margin: 10px 10px;
+    width: 40vw;
+    height: 30vh;
+  }
+  #subpart1 h1 {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  #subpart1 p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    width: 75%;
+  }
+
+  #subpart1 button {
+    font-size: 18px;
+    padding: 15px 15px;
+    width: 40%;
+  }
+
+  #caseStudy {
+    padding: 10px 20px;
+    gap: 30px;
+  }
+
+  #caseStudy h1 {
+    font-size: 2.1rem;
+    height: 55px;
+    text-align: center;
+    width: 300px;
+  }
+
+  #caseStudy p {
+    font-size: 1.2rem;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    width: 100%;
+  }
+
+  #caseBox {
+    margin-top: 50px;
+    height: 40vh;
+    width: 95%;
+    gap: 0px;
+  }
+
+  .text {
+    width: 33%;
+    padding: 0px 15px;
+    gap: 15px;
+  }
+
+  .text h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+
+  hr {
+    margin-top: 2%;
+    height: 87%;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 415px) and (max-width: 640px) {
+  /* Section 1 */
+  /* Navbar Part */
+  #section1 {
+    height: 100%;
+    margin-bottom: 0px;
+  }
+
+  nav {
+    padding: 10px;
+  }
+
+  #part2 i {
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    font-size: 40px;
+    font-weight: 800;
+    display: block;
+  }
+
+  #part2 h3 {
+    display: none;
+  }
+
+  #part2 button {
+    display: none;
+  }
+
+  /* Landing page */
+  #landingPage {
+    gap: 30px;
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  #LPpart1 {
+    height: 50%;
+    width: 100%;
+    padding: 0px 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #LPpart1 h1 {
+    font-size: 2.5rem;
+    line-height: 45px;
+    font-weight: 600;
+    letter-spacing: 0px;
+  }
+
+  #LPpart1 p {
+    font-size: 17px;
+    width: 100%;
+    font-weight: 500;
+  }
+
+  #LPpart1 button {
+    font-size: 15px;
+    margin: 30px 0px 0px 0px;
+  }
+
+  #LPpart2 {
+    height: 50%;
+    width: 100%;
+  }
+  #LPpart2 img {
+    margin-top: 0px;
+    width: 370px;
+    height: 30vh;
+  }
+
+  /* Companies part */
+  #companies {
+    padding: 10px;
+  }
+
+  #companies > img {
+    height: 100px;
+    width: 110px;
+  }
+
+  /* Section 2 */
+  #section2 {
+    height: 185%;
+    width: 100%;
+    margin: 0px;
+  }
+
+  #services {
+    width: 100%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+  }
+
+  #services h1 {
+    font-size: 2rem;
+    padding: 5px;
+    height: 50px;
+    width: 140px;
+  }
+
+  #services p {
+    font-size: 1.15rem;
+    width: 80%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+  
+  .whitebox,
+  .blackbox {
+    height: 150px;
+    box-shadow: 0px 0px 0px black;
+    margin: 10px 0px;
+    width: 90%;
+    padding: 10p 30px;
+    align-items: center;
+    text-align: center;
+  }
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 20px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 1.4rem;
+    width: 100%;
+    /* background-color: red; */
+  }
+  .emailbox {
+    justify-content: space-between;
+    /* padding: 28px 35px; */
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    gap: 10px;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 1.5rem;
+    padding: 5px 5px;
+  }
+
+  .whitebox img,
+  .blackbox img {
+    display: none;
+  }
+
+  /* Section 3 */
+  #section3 {
+    height: 160%;
+    margin-top: 0px;
+  }
+  .box3 {
+    width: 85%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #subpart1 {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    gap: 20px;
+    /* justify-content: space-around; */
+    flex-direction: column;
+  }
+
+  .box3 > img {
+    margin: 10px 10px;
+    width: 50vw;
+    height: 25vh;
+  }
+  #subpart1 h1 {
+    font-size: 1.6rem;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  #subpart1 p {
+    font-size: 1rem;
+    font-weight: 400;
+    width: 75%;
+    text-align: center;
+  }
+
+  #subpart1 button {
+    font-size: 14px;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+  }
+
+  #caseStudy {
+    padding: 10px 20px;
+    gap: 20px;
+  }
+
+  #caseStudy h1 {
+    font-size: 1.5rem;
+    height: 6.65vh;
+    text-align: center;
+    width: 200px;
+  }
+
+  #caseStudy p {
+    font-size: 1rem;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    width: 100%;
+  }
+
+  #caseBox {
+    margin-top: 50px;
+    height: 60vh;
+    width: 95%;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0px;
+  }
+
+  .text {
+    width: 100%;
+    padding: 10px 15px;
+    gap: 15px;
+  }
+
+  .text h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+
+  .text p {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 1.1rem;
+    color: #bbf95e;
+    cursor: pointer;
+  }
+
+  .text p i {
+    color: #bbf95e;
+    font-size: 1.6rem;
+  }
+
+  hr {
+    margin-top: 2%;
+    height: 0;
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  /* Section 1 */
+  /* Navbar Part */
+  #section1 {
+    height: 120%;
+    margin-bottom: 30px;
+  }
+
+  nav {
+    padding: 10px;
+  }
+
+  #part2 i {
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    font-size: 40px;
+    font-weight: 800;
+    display: block;
+  }
+
+  #part2 h3 {
+    display: none;
+  }
+
+  #part2 button {
+    display: none;
+  }
+
+  /* Landing page */
+  #landingPage {
+    gap: 30px;
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  #LPpart1 {
+    height: 50%;
+    width: 100%;
+    padding: 0px 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #LPpart1 h1 {
+    font-size: 2.5rem;
+    line-height: 45px;
+    font-weight: 600;
+    letter-spacing: 0px;
+  }
+
+  #LPpart1 p {
+    font-size: 17px;
+    width: 100%;
+    font-weight: 500;
+  }
+
+  #LPpart1 button {
+    font-size: 15px;
+    margin: 30px 0px 0px 0px;
+  }
+
+  #LPpart2 {
+    height: 50%;
+    width: 100%;
+  }
+  #LPpart2 img {
+    margin-top: 0px;
+    width: 70vw;
+    height: 30vh;
+  }
+
+  /* Companies part */
+  #companies {
+    padding: 10px;
+  }
+
+  #companies > img {
+    height: 100px;
+    width: 110px;
+  }
+
+  /* Section 2 */
+  #section2 {
+    margin-top: 40px;
+    height: 185%;
+    width: 100%;
+  }
+
+  #services {
+    width: 100%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0px;
+  }
+
+  #services h1 {
+    font-size: 2rem;
+    padding: 5px;
+    height: 50px;
+    width: 140px;
+  }
+
+  #services p {
+    font-size: 1.15rem;
+    width: 80%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 150px;
+    box-shadow: 0px 0px 0px black;
+    margin: 10px 0px;
+    width: 90%;
+    padding: 10p 30px;
+    align-items: center;
+    text-align: center;
+  }
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 20px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 1.4rem;
+    width: 100%;
+    /* background-color: red; */
+  }
+  .emailbox {
+    justify-content: space-between;
+    /* padding: 28px 35px; */
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    gap: 10px;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 1.5rem;
+    padding: 5px 5px;
+  }
+
+  .whitebox img,
+  .blackbox img {
+    display: none;
+  }
+
+  /* Section 3 */
+  #section3 {
+    margin-top: 0px;
+    height: 160%;
+    justify-content: start;
+  }
+
+  .box3 {
+    width: 85%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  #subpart1 {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    gap: 10px;
+    /* justify-content: space-around; */
+    flex-direction: column;
+  }
+
+  .box3 > img {
+    margin: 10px 10px;
+    width: 200px;
+    height: 200px;
+  }
+  #subpart1 h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  #subpart1 p {
+    font-size: 0.9rem;
+    font-weight: 400;
+    width: 75%;
+    text-align: center;
+  }
+
+  #subpart1 button {
+    font-size: 14px;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+  }
+
+  #caseStudy {
+    padding: 10px 25px;
+    gap: 20px;
+    width: 100%;
+  }
+
+  #caseStudy h1 {
+    font-size: 1.5rem;
+    height: 60px;
+    text-align: center;
+    width: 200px;
+  }
+
+  #caseStudy p {
+    font-size: 0.9rem;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    width: 100%;
+  }
+
+  #caseBox {
+    margin-top: 50px;
+    height: 64vh;
+    width: 90%;
+    gap: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0px;
+  }
+
+  .text {
+    width: 100%;
+    padding: 10px 15px;
+    gap: 15px;
+  }
+
+  .text h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  .text p {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 1.1rem;
+    color: #bbf95e;
+    cursor: pointer;
+  }
+
+  .text p i {
+    color: #bbf95e;
+    font-size: 1.6rem;
+  }
+
+  hr {
+    margin-top: 2%;
+    height: 0;
+    font-weight: bold;
+  }
+}
+
+@media (min-height: 1300px) and (max-height: 1400px) {
+  #section1 {
+    height: 100%;
+    margin-bottom: 0px;
+    /* background-color: red; */
+  }
+
+  #landingPage {
+    height: 78%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+  }
+
+  #LPpart1 {
+    position: relative;
+    height: 80%;
+    width: 50%;
+    padding: 10px 50px;
+    margin-bottom: 70px;
+
+  }
+
+  #LPpart1 h1 {
+    width: 80%;
+    font-size: 5.5rem;
+    letter-spacing: 1px;
+  }
+
+  #LPpart1 p {
+    font-size: 25px;
+    width: 70%;
+    font-weight: 520;
+  }
+
+  #LPpart1 button {
+    font-size: 25px;
+  }
+
+  #LPpart2 img {
+    margin-top: 0px;
+    height: 48vh;
+    width: 45vw;
+  }
+
+  #companies > img {
+    height: 160px;
+    width: 160px;
+    object-fit: contain;
+    cursor: pointer;
+  }
+
+  #section2 {
+    margin-top: 0px;
+    height: 100%;
+  }
+  
+  #services{
+    width: 100%;
+  }
+  
+  #services h1{
+      font-size: 3rem;
+  }
+  #services p{
+      font-size: 1.7rem;
+      width: 100%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 270px;
+    width: 48%;
+  }
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 60px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 2.3rem;
+
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    font-size: 1.7rem;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+  }  
+
+  #section3 {
+    height: 120%;
+  }
+    
+  #subpart1 h1{
+    font-size: 3rem;
+  }
+  
+  #subpart1 p{
+    font-size: 1.8rem;
+    font-weight: 500;
+    width: 100%;
+  }
+  
+  #subpart1 button{
+    font-size: 25px;
+    width: 100%;
+  }
+
+  .box3>img{
+    width: 35vw;
+    height: 33vh;
+  }
+
+  #caseStudy{
+    width: 100%;
+    align-items: center;
+  }
+  
+  #caseStudy h1{
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  
+  #caseStudy p{
+    font-size: 1.9rem;
+    width: 80%;
+  }
+
+  #caseBox {
+    height: 43vh;
+  }
+  
+  .text{
+    width: 35%;
+  }
+  
+  .text h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+  }
+  
+  hr{
+    margin-top: 3%;
+    height: 90%;
+    font-weight: bold;
+  }
+  
+  .text p{
+    font-size: 1.7rem;
+  }
+  
+  .text p i{
+    font-size: 2.7rem;
+  }
+}
+
+
+@media (min-height: 1200px) and (max-height: 1300px) {
+  #section1 {
+    height: 105%;
+    margin-bottom: 0px;
+    /* background-color: red; */
+  }
+
+  #landingPage {
+    height: 78%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+  }
+
+  #LPpart1 {
+    position: relative;
+    height: 80%;
+    width: 50%;
+    padding: 10px 50px;
+    margin-bottom: 70px;
+
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+    font-size: 5rem;
+    letter-spacing: 1px;
+  }
+
+  #LPpart1 p {
+    font-size: 23px;
+    width: 70%;
+    font-weight: 520;
+  }
+
+  #LPpart1 button {
+    font-size: 25px;
+  }
+
+  #LPpart2 img {
+    margin-top: 0px;
+    height: 48vh;
+    width: 45vw;
+  }
+
+  #companies > img {
+    height: 160px;
+    width: 160px;
+    object-fit: contain;
+    cursor: pointer;
+  }
+
+  #section2 {
+    margin-top: 0px;
+    height: 110%;
+  }
+  
+  #services{
+    width: 100%;
+  }
+  
+  #services h1{
+      font-size: 2.7rem;
+  }
+  #services p{
+      font-size: 1.4rem;
+      width: 100%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 270px;
+  }
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 60px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 2.3rem;
+
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    font-size: 1.7rem;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+  }  
+
+  #section3 {
+    height: 120%;
+  }
+    
+  #subpart1 {
+    gap: 60px;
+  }
+
+  #subpart1 h1{
+    font-size: 2.8rem;
+  }
+  
+  #subpart1 p{
+    font-size: 1.6rem;
+    font-weight: 500;
+    width: 100%;
+  }
+  
+  #subpart1 button{
+    font-size: 23px;
+    width: 80%;
+  }
+
+  .box3>img{
+    width: 35vw;
+    height: 33vh;
+  }
+
+  #caseStudy{
+    width: 100%;
+    align-items: center;
+  }
+  
+  #caseStudy h1{
+    font-size: 2.2rem;
+    text-align: center;
+  }
+  
+  #caseStudy p{
+    font-size: 1.6rem;
+    width: 80%;
+  }
+
+  #caseBox {
+    height: 45vh;
+  }
+  
+  .text{
+    width: 35%;
+    gap: 40px;
+  }
+  
+  .text h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+  }
+  
+  hr{
+    margin-top: 3%;
+    height: 90%;
+    font-weight: bold;
+  }
+  
+  .text p{
+    font-size: 1.6rem;
+  }
+  
+  .text p i{
+    font-size: 2rem;
+  }
+}
+
+@media (min-height: 1050px) and (max-height: 1200px) {
+  #section1 {
+    height: 100%;
+    margin-bottom: 0px;
+    /* background-color: red; */
+  }
+
+  #landingPage {
+    height: 85%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+  }
+
+  #LPpart1 {
+    /* background-color: red; */
+    position: relative;
+    height: 80%;
+    width: 50%;
+    padding: 10px 50px;
+    margin-bottom: 70px;
+
+    /* background-color: red; */
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+    font-size: 4.4rem;
+    letter-spacing: 0px;
+  }
+
+  #LPpart1 p {
+    font-size: 22px;
+    width: 70%;
+    font-weight: 520;
+  }
+
+  #LPpart1 button {
+    font-size: 22 px;
+  }
+
+  #LPpart2 img {
+    margin-top: 0px;
+    height: 48vh;
+    width: 45vw;
+  }
+
+  #companies > img {
+    height: 160px;
+    width: 160px;
+    object-fit: contain;
+    cursor: pointer;
+  }
+
+  #section2 {
+    margin-top: 0px;
+    height: 230%;
+  }
+  
+  #services{
+    width: 100%;
+  }
+  
+  #services h1{
+      font-size: 2.4rem;
+  }
+  #services p{
+      font-size: 1.4rem;
+      width: 100%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 270px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+  }
+
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 60px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 2.3rem;
+
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    font-size: 1.7rem;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+  }  
+
+ .emailbox{
+    padding: 0px 60px;
+    justify-content: start;
+  }
+  #section3 {
+    height: 120%;
+  }
+    
+  #subpart1 h1{
+    font-size: 3rem;
+  }
+  
+  #subpart1 p{
+    font-size: 1.8rem;
+    font-weight: 500;
+    width: 100%;
+  }
+  
+  #subpart1 button{
+    font-size: 25px;
+    width: 100%;
+  }
+
+  .box3>img{
+    width: 35vw;
+    height: 33vh;
+  }
+
+  #caseStudy{
+    width: 100%;
+    align-items: center;
+  }
+  
+  #caseStudy h1{
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  #caseStudy p{
+    font-size: 1.5rem;
+    width: 80%;
+  }
+
+  #caseBox {
+    height: 40vh;
+  }
+  
+  .text{
+    width: 35%;
+  }
+  
+  .text h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+  }
+  
+  hr{
+    margin-top: 3%;
+    height: 90%;
+    font-weight: bold;
+  }
+
+  .text p{
+    font-size: 1.4rem;
+  }
+  
+  .text p i{
+    font-size: 2rem;
+  }
+  
+}
+@media (min-height: 950px) and (max-height: 1050px) {
+  #section1 {
+    height: 105%;
+    margin-bottom: 0px;
+    /* background-color: red; */
+  }
+
+  #landingPage {
+    height: 85%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+  }
+
+  #LPpart1 {
+    /* background-color: red; */
+    position: relative;
+    height: 80%;
+    width: 50%;
+    padding: 10px 50px;
+    margin-bottom: 70px;
+
+    /* background-color: red; */
+  }
+
+  #LPpart1 h1 {
+    width: 100%;
+    font-size: 4.2rem;
+    letter-spacing: 0px;
+  }
+
+  #LPpart1 p {
+    font-size: 22px;
+    width: 70%;
+    font-weight: 520;
+  }
+
+  #LPpart1 button {
+    font-size: 22 px;
+  }
+
+  #LPpart2 img {
+    margin-top: 0px;
+    height: 48vh;
+    width: 45vw;
+  }
+
+  #companies > img {
+    height: 160px;
+    width: 160px;
+    object-fit: contain;
+    cursor: pointer;
+  }
+
+  #section2 {
+    margin-top: 0px;
+    height: 270%;
+  }
+  
+  #services{
+    width: 100%;
+  }
+  
+  #services h1{
+      font-size: 2.4rem;
+  }
+  #services p{
+      font-size: 1.4rem;
+      width: 100%;
+  }
+
+  #boxes {
+    height: 90%;
+    gap: 10px;
+  }
+
+  .whitebox,
+  .blackbox {
+    height: 270px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    margin: 20px 0px;
+  }
+
+  .whitebox > .boxPart1,
+  .blackbox > .boxPart1 {
+    gap: 60px;
+  }
+
+  .whitebox h1,
+  .blackbox h1 {
+    font-size: 2.3rem;
+
+  }
+
+  .whitebox > .boxPart1 p,
+  .blackbox > .boxPart1 p {
+    font-size: 1.7rem;
+  }
+
+  .whitebox > .boxPart1 p i,
+  .blackbox > .boxPart1 p i {
+    font-size: 2rem;
+  }  
+
+ .emailbox{
+    padding: 0px 60px;
+    justify-content: start;
+  }
+
+
+  #section3 {
+    height: 140%;
+  }
+    
+  #subpart1 h1{
+    font-size: 2.4rem;
+  }
+  
+  #subpart1 p{
+    padding: 10px 40px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    width: 100%;
+  }
+  
+  #subpart1 button{
+    font-size: 22px;
+    width: 50%;
+  }
+
+  .box3>img{
+    width: 35vw;
+    height: 33vh;
+  }
+
+  #caseStudy{
+    width: 100%;
+    align-items: center;
+  }
+  
+  #caseStudy h1{
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  #caseStudy p{
+    font-size: 1.5rem;
+    width: 80%;
+  }
+
+  #caseBox {
+    height: 40vh;
+  }
+  
+  .text{
+    width: 35%;
+  }
+  
+  .text h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+  }
+  
+  hr{
+    margin-top: 3%;
+    height: 90%;
+    font-weight: bold;
+  }
+
+  .text p{
+    font-size: 1.4rem;
+  }
+  
+  .text p i{
+    font-size: 2rem;
+  }
+  
+}
+
+/* @media (min-height: 750px) and (max-height: 950px) {
+  #section1 {
+    height: 120%;
+    margin-bottom: 0px;
+  }
+  #section2 {
+    margin-top: 0px;
+    height: 200%;
+  }
+  #section3 {
+    height: 180%;
+  }
+
+  #caseBox {
+    height: 80vh;
+  }
+} */
+
+
+
+@media (min-height: 680px) and (max-height: 750px) {
+  #section1 {
+    height: 130%;
+  }
+  #section2 {
+    height: 230%;
+  }
+  #section3 {
+    height: 180%;
+  }
+
+  #caseBox {
+    height: 80vh;
+  }
+}
+
+@media (min-height: 0px) and (max-height: 680px) {
+  #section1 {
+    height: 145%;
+  }
+  #section2 {
+    height: 240%;
+  }
+  #section3 {
+    height: 190%;
+  }
+
+  #caseBox {
+    height: 80vh;
+  }
+}
+
+
